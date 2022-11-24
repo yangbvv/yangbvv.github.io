@@ -1,0 +1,3 @@
+apt update -y          # Debian/Ubuntu 命令
+apt install -y curl    #Debian/Ubuntu 命令
+apt install -y socat    #Debian/Ubuntu 命令
