@@ -55,3 +55,12 @@ CCTV5+体育高清,http://183.185.136.159:9999/tsfile/live/1000_1.m3u8?key=txipt
 山西公共,http://183.185.136.159:9999/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
 山西影视,http://183.185.136.159:9999/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 山西科教,http://183.185.136.159:9999/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
+山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
+山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
+山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
+山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
+山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
+山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
+山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
+山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
