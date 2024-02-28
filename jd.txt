@@ -1,3 +1,4 @@
+央视频道,#genre#
 CCTV1-综合,http://124.129.235.34:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-财经,http://124.129.235.34:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3-综艺,http://124.129.235.34:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -14,6 +15,7 @@ CCTV13-新闻,http://124.129.235.34:9901/tsfile/live/0013_1.m3u8?key=txiptv&play
 CCTV14-少儿,http://124.129.235.34:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV15-音乐,http://124.129.235.34:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-NEWS,http://124.129.235.34:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+省内频道,#genre#
 山东卫视,http://124.129.235.34:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东齐鲁,http://124.129.235.34:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
 山东公共,http://124.129.235.34:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -30,6 +32,7 @@ QTV-3,http://124.129.235.34:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&a
 QTV-4,http://124.129.235.34:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 QTV-5,http://124.129.235.34:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
 QTV-6,http://124.129.235.34:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+卫视视频道,#genre#
 浙江卫视,http://124.129.235.34:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 湖南卫视,http://124.129.235.34:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://124.129.235.34:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
