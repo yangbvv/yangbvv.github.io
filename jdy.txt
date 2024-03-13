@@ -46,9 +46,6 @@ QTV-6,http://112.6.117.141:9901/tsfile/live/1057_1.m3u8?key=txiptv&playlive=1&au
 宁夏卫视,http://112.6.117.141:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 新疆卫视,http://112.6.117.141:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://112.6.117.141:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
-山东 农科-tel,http://112.6.117.141:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=0&authid=0
-山东少儿-Tel,http://112.6.117.141:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=0&authid=0
-山东国际-Tel,http://112.6.117.141:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=0&authid=0
 东方卫视-Tel,http://112.6.117.141:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=0&authid=0
 江苏卫视-Tel,http://112.6.117.141:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
 浙江卫视-Tel,http://112.6.117.141:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
