@@ -195,3 +195,5 @@ http://sdltzb.com/udp/239.253.254.66:8000
 http://sdltzb.com/udp/239.253.254.139:8000
 #EXTINF:-1 tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="其他频道",魅力足球
 http://sdltzb.com/udp/239.253.254.100:8000
+#EXTINF:-1 tvg-name="哪吒2魔童闹海" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="其他频道",魅力足球
+https://v9.tlkqc.com/wjv9/202502/13/sG5f42nLuW81/video/index.m3u8
