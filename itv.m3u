@@ -1099,8 +1099,8 @@ http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=200000
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000002000000049&livemode=1&stbId=meyou&mode=1
 #EXTINF:-1 tvg-name="BesTV-15" tvg-logo="https://live.fanmingming.cn/tv/BesTV-15.png" group-title="BesTV频道",BesTV-15
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000002000000050&livemode=1&stbId=meyou&mode=1
-#EXTINF:-1 tvg-name="BesTV-16http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000002000000051&livemode=1&stbId=meyou&mode=1" tvg-logo="https://live.fanmingming.cn/tv/BesTV-16http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000002000000051&livemode=1&stbId=meyou&mode=1.png" group-title="BesTV频道",BesTV-16http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000002000000051&livemode=1&stbId=meyou&mode=1
-undefined
+#EXTINF:-1 tvg-name="BesTV-16" tvg-logo="https://live.fanmingming.cn/tv/BesTV-16.png" group-title="BesTV频道",BesTV-16
+http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=2000000002000000051&livemode=1&stbId=meyou&mode=1
 #EXTINF:-1 tvg-name="BesTV-17" tvg-logo="https://live.fanmingming.cn/tv/BesTV-17.png" group-title="BesTV频道",BesTV-17
 http://gslbserv.itv.cmvideo.cn:80/1.m3u8?channel-id=FifastbLive&Contentid=5000000001000001116&livemode=1&stbId=meyou&mode=1
 #EXTINF:-1 tvg-name="BesTV-18" tvg-logo="https://live.fanmingming.cn/tv/BesTV-18.png" group-title="BesTV频道",BesTV-18
