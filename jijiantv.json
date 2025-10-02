@@ -1,0 +1,17 @@
+{
+  "dtaId": 1759387184922,
+  "channels": [
+    "http://rui.run/iptv.m3u",
+    "https://shimmering-taffy-8c2940.netlify.app/",
+    "https://live.ottiptv.cc/iptv.m3u?userid=5109663644&sign=680f67276c79c373bba0ae898e0c9ebaec1ecaeb65ab0fb7c687d8da70eee32b5edb1d54a2f2eba24d7e9254cdaf554ae79c9f90939f55e720771ec26203de04409c52a474a4f6&auth_token=07fb6a388d5dd747d3ae12451dbc40ea&ua=okHttp/Mod-1.4.0.0",
+    "https://rui.run/shanghaipv6.txt"
+  ],
+  "dataValueProxy": "0",
+  "timeoutSwitchLine": "15",
+  "leftRightSelect": true,
+  "fontScale": "1",
+  "appFontFamily": "{\"id\":\"0\",\"font_name\":\"系统\",\"font_key\":\"system\",\"font_type\":\"ttf\"}",
+  "bingBg": false,
+  "autoUpdate": false,
+  "lightVersionCheck": true
+}
